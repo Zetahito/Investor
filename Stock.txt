@@ -1,0 +1,9 @@
+Apple;7000;true;50.0;1.0;10;0
+Tesla;7000;true;50.0;1.0;10;0
+Amazon;7000;true;50.0;1.0;10;0
+Netflix;7000;true;50.0;1.0;10;0
+Google;7000;true;50.0;1.0;10;0
+SpaceX;7000;true;50.0;1.0;10;0
+Samsung;7000;true;50.0;1.0;10;0
+Valve;7000;true;50.0;1.0;10;0
+PMDP;7000;true;50.0;1.0;10;0
